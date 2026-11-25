@@ -1,2 +1,3 @@
-# emerald-patch-jp
-日本版エメラルドに当てるパッチファイル
+# sankus-playground
+投稿主が作ったゲームのおすそ分け
+
